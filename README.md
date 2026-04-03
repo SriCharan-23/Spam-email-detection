@@ -1,4 +1,5 @@
 📧 Email Spam Detection Web App
+-----------------------------------------------------
 
 A Machine Learning-based web application that classifies emails as Spam or Ham (Not Spam) using Natural Language Processing (NLP) and a trained model.
 
