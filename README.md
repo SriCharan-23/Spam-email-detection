@@ -49,3 +49,5 @@ Trained ML model predicts: <br>
 Ham (Not Spam) <br>
 Spam <br>
 Result is displayed on the webpage <br>
+
+The dataset is taken from kaggle !
