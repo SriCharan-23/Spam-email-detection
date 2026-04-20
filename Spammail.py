@@ -26,6 +26,8 @@ vectorizer = TfidfVectorizer(min_df=1,stop_words='english',lowercase=True)
 # TfidfVectorizer
 # Converts text into numbers (feature vectors) so ML models can understand it.
 # Uses TF-IDF (Term Frequency - Inverse Document Frequency).
+# It is basically a NLP (Natural Language Processing) technique which proides scores for specific words in any mail
+# like "Congratulations!", "Hurry up!" etc.,
 
 # min_df=1
 # ----------------
